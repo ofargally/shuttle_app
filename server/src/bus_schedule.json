@@ -1,0 +1,219 @@
+{
+  "timeTable": {
+    "headers": [
+      "Bookstore",
+      "Lebanon and West Pleasant",
+      "SOMAC",
+      "Newell",
+      "University Court",
+      "Parker",
+      "Whitnall Field",
+      "Case-Geyer Library",
+      "Frank Dining",
+      "Gate House",
+      "Kendrick & Broad"
+    ],
+    "rows": [
+      [
+        "6:00 a.m.",
+        "6:05 a.m. 🚩 Flag stop",
+        "6:10 a.m.",
+        "6:15 a.m.",
+        "6:20 a.m.",
+        "6:25 a.m.",
+        "6:30 a.m.",
+        "6:35 a.m.",
+        "6:40 a.m.",
+        "6:45 a.m.",
+        "6:50 a.m."
+      ],
+      [
+        "7:00 a.m.",
+        "7:05 a.m. 🚩 Flag stop",
+        "7:10 a.m.",
+        "7:15 a.m.",
+        "7:20 a.m.",
+        "7:25 a.m.",
+        "7:30 a.m.",
+        "7:35 a.m.",
+        "7:40 a.m.",
+        "7:45 a.m.",
+        "7:50 a.m."
+      ],
+      [
+        "8:00 a.m.",
+        "8:05 a.m. 🚩 Flag stop",
+        "8:10 a.m.",
+        "8:15 a.m.",
+        "8:20 a.m.",
+        "8:25 a.m.",
+        "8:30 a.m.",
+        "8:35 a.m.",
+        "8:40 a.m.",
+        "8:45 a.m.",
+        "8:50 a.m."
+      ],
+      [
+        "9:00 a.m.",
+        "9:05 a.m. 🚩 Flag stop",
+        "9:10 a.m.",
+        "9:15 a.m.",
+        "9:20 a.m.",
+        "9:25 a.m.",
+        "9:30 a.m.",
+        "9:35 a.m.",
+        "9:40 a.m.",
+        "9:45 a.m.",
+        "9:50 a.m."
+      ],
+      [
+        "10:00 a.m.",
+        "10:05 a.m. 🚩 Flag stop",
+        "10:10 a.m.",
+        "10:15 a.m.",
+        "10:20 a.m.",
+        "10:25 a.m.",
+        "10:30 a.m.",
+        "10:35 a.m.",
+        "10:40 a.m.",
+        "10:45 a.m.",
+        "10:50 a.m."
+      ],
+      [
+        "11:00 a.m.",
+        "11:05 a.m. 🚩 Flag stop",
+        "11:10 a.m.",
+        "11:15 a.m.",
+        "11:20 a.m.",
+        "11:25 a.m.",
+        "11:30 a.m.",
+        "11:35 a.m.",
+        "11:40 a.m.",
+        "11:45 a.m.",
+        "11:50 a.m."
+      ],
+      [
+        "12:00 p.m.",
+        "12:05 p.m. 🚩 Flag stop",
+        "12:10 p.m.",
+        "12:15 p.m.",
+        "12:20 p.m.",
+        "12:25 p.m.",
+        "12:30 p.m.",
+        "12:35 p.m.",
+        "12:40 p.m.",
+        "12:45 p.m.",
+        "12:50 p.m."
+      ],
+      [
+        "1:00 p.m.",
+        "1:05 p.m. 🚩 Flag stop",
+        "1:10 p.m.",
+        "1:15 p.m.",
+        "1:20 p.m.",
+        "1:25 p.m.",
+        "1:30 p.m.",
+        "1:35 p.m.",
+        "1:40 p.m.",
+        "1:45 p.m.",
+        "1:50 p.m."
+      ],
+      [
+        "2:00 p.m.",
+        "2:05 p.m. 🚩 Flag stop",
+        "2:10 p.m.",
+        "2:15 p.m.",
+        "2:20 p.m.",
+        "2:25 p.m.",
+        "2:30 p.m.",
+        "2:35 p.m.",
+        "2:40 p.m.",
+        "2:45 p.m.",
+        "2:50 p.m."
+      ],
+      [
+        "3:00 p.m.",
+        "3:05 p.m. 🚩 Flag stop",
+        "3:10 p.m.",
+        "3:15 p.m.",
+        "3:20 p.m.",
+        "3:25 p.m.",
+        "3:30 p.m.",
+        "3:35 p.m.",
+        "3:40 p.m.",
+        "3:45 p.m.",
+        "3:50 p.m."
+      ],
+      [
+        "4:00 p.m.",
+        "4:05 p.m. 🚩 Flag stop",
+        "4:10 p.m.",
+        "4:15 p.m.",
+        "4:20 p.m.",
+        "4:25 p.m.",
+        "4:30 p.m.",
+        "4:35 p.m.",
+        "4:40 p.m.",
+        "4:45 p.m.",
+        "4:50 p.m."
+      ]
+    ],
+    "stops": [
+      {
+        "name": "Bookstore",
+        "latitude": 43.0842,
+        "longitude": -77.671
+      },
+      {
+        "name": "Lebanon and West Pleasant",
+        "latitude": 43.0845,
+        "longitude": -77.6801
+      },
+      {
+        "name": "SOMAC",
+        "latitude": 43.085,
+        "longitude": -77.6902
+      },
+      {
+        "name": "Newell",
+        "latitude": 43.086,
+        "longitude": -77.7003
+      },
+      {
+        "name": "University Court",
+        "latitude": 43.087,
+        "longitude": -77.7104
+      },
+      {
+        "name": "Parker",
+        "latitude": 43.088,
+        "longitude": -77.7205
+      },
+      {
+        "name": "Whitnall Field",
+        "latitude": 43.089,
+        "longitude": -77.7306
+      },
+      {
+        "name": "Case-Geyer Library",
+        "latitude": 43.09,
+        "longitude": -77.7407
+      },
+      {
+        "name": "Frank Dining",
+        "latitude": 43.091,
+        "longitude": -77.7508
+      },
+      {
+        "name": "Gate House",
+        "latitude": 43.092,
+        "longitude": -77.7609
+      },
+      {
+        "name": "Kendrick & Broad",
+        "latitude": 43.093,
+        "longitude": -77.77
+      }
+    ]
+  }
+}
